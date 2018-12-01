@@ -1,0 +1,2 @@
+export const CHANGE_FOCUS = 'HEADER/CHANGE_FOCUS'
+export const CHANGE_BLUR = 'HEADER/CHANGE_BLUR'
