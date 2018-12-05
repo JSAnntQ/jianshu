@@ -1,6 +1,5 @@
 import styled  from 'styled-components'
 
-
 export const Homewarpper = styled.main`
   margin: 0 auto;
   box-sizing: border-box;
@@ -46,7 +45,7 @@ export const Downloadewm = styled.a`
   display: block;
   box-sizing: border-box;
   margin-bottom: 30px;
-  padding: 10px 22px;
+  padding: 10px 20px;
   width: 100%;
   border: 1px solid #f0f0f0;
   border-radius: 6px;
@@ -134,5 +133,4 @@ export const Recommendedauthors = styled.div`
   height: 300px;
   border-radius: 8px;
   background: salmon;
-
 `
